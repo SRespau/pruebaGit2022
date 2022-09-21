@@ -35,3 +35,6 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC4AZML9SlaXqIDnSf5j1hUsK4LSpHH6WUsq72Ov1a9
 *git remote remove origin ---> borrar la conexión con github si se ha conectado por https en vez de ssh
 //Para sincronizar la carpeta creada del repositorio y subir ficheros se le da en github al + y new repository. Se siguen pasos y se añaden los comandos en la terminal
 //El Readme.md se convertirá automaticamente a HTML y todo que queramos comunicar se hará por ahi. Suele hacerse en Markdown
+
+*git push ---> Subira al repositorio de github todos los cambios
+
