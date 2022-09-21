@@ -1,22 +1,22 @@
------Comandos terminal
+###Comandos terminal
 Usuario git:  git config --global user.name "Sergio Respau"
 Password git: git config --global user.email "sergiorespau@gmail.com"
 
 
------Crear claves privadas que entendera github sin poner usuario y contraseña
+###Crear claves privadas que entendera github sin poner usuario y contraseña
 *ssh-keygen
 
 
------Clave publica creada:
+###Clave publica creada:
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC4AZML9SlaXqIDnSf5j1hUsK4LSpHH6WUsq72Ov1a9EJjUp6EuUZ2GL4yx9wPlkKXoWxITN/qCTB5MpTwm/wA+wemsS8VQoNr+hEjOt+56ty4XMNKSW24qlZYkEZwpT+p9MGdhWBCpUtiYCP/D5yWKYOHnWPP+W3yUtCoyQOCDNer6mRmO7rO3FYmS84mFV3uJp+Mwg26Mz01biH7pR9WMg1FEYCo4WYjweBUI21U7Yazun+cW2VulZlQUsGrFO2/Wh5svHOZHg+BC7amHXWp9ULVp29oSXJEWva/yQZpOeL6FLbBF3ssdi3dF9Uy4bsRGqjcMxTGPUXEitdjWaWuU2+bLF0BwpDkaHeGOKfSMgyRcIXHyYfe/F43o0uxvmNO+t2KVhchMHhdRN1feeG/W99ihlJEYLm4kH1lKgDsdHfoPmELBwTRUcTnP7W8BmV15l1Cht8m442rU1HPLRlLtRSq7Pr0lkauscCiSssFYWWIMd73L+vKJmv4JMyZIIC0= alumno@dws
 
 
------Inicializar repositorio git
+###Inicializar repositorio git
 //Creamos carpeta o entramos a la que queramos
 *git init
 
 
------Comandos git
+###Comandos git
 *git status ---> me dice la información basica del repositorio. Si no hay git dirá que no es git
 *echo "# Repositorio de ejemplo" >> README.md  ---> meto la frase entre comillas en un fichero readme.md (echo muestra por pantalla), ">>" redirige la frase a un fichero. Los ficheros "md" son interesantes para documentar proyectos. El github suele ir con ese formato
 
