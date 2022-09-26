@@ -42,6 +42,7 @@ git push -u origin main
 
 *git push ---> Subira al repositorio de github todos los cambios
 *git push -u origin main ---> subir todo lo que tengo en origen de la rama main
+*git push origin rama1 ---> subir la rama1
 *git pull/fetch ---> recupera los archivos que hay en github y los carga encima de los viejos
 *git clone git@github.com:SRespau/pruebaGit2022.git pruebasGitCopia---> Se descargara en la carpeta donde se encuentra la terminal una carpeta con el nombre dado con ese repositorio
 
