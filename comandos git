@@ -49,6 +49,8 @@ git push -u origin main
 RAMAS
 *git branch -M main ---> decir que esta carpeta es la rama principal
 *git branch ---> listado ramas
-*git branch rama1 ---> crea la rama1
 *git branch -v ----> litado ramas con mas detalle
+*git branch rama1 ---> crea la rama1
+*git checkout -b rama2 ---> crea una rama y te mueve ahi
 *git checkout rama1 ---> cambia a rama1
+*git branch -d rama2 ---> borra la rama2
