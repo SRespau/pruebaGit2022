@@ -59,3 +59,8 @@ RAMAS
 *git merge rama1 ---> fusiona la rama1 con main
 *git checkout --track origin/rama1 ---> me hara una copia de la rama1 remota
 *git push origin rama1 ---> sube a la nube la rama1
+
+Check version nube con local
+*git remote update ---> conecta y comprueba con los ficheros del servidor
+*git status --uno ---> comprueba si lo de local esta en fecha con lo de la nube
+amo a veh
