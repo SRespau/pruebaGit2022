@@ -62,5 +62,4 @@ RAMAS
 
 Check version nube con local
 *git remote update ---> conecta y comprueba con los ficheros del servidor
-*git status --uno ---> comprueba si lo de local esta en fecha con lo de la nube
-amo a veh
+*git status --uno // git status---> comprueba si lo de local esta en fecha con lo de la nube
