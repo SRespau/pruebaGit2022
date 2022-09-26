@@ -45,4 +45,10 @@ git push -u origin main
 *git pull/fetch ---> recupera los archivos que hay en github y los carga encima de los viejos
 *git clone git@github.com:SRespau/pruebaGit2022.git pruebasGitCopia---> Se descargara en la carpeta donde se encuentra la terminal una carpeta con el nombre dado con ese repositorio
 
-*git branch -M main ---> decir que esta carpeta es la principal
+
+RAMAS
+*git branch -M main ---> decir que esta carpeta es la rama principal
+*git branch ---> listado ramas
+*git branch rama1 ---> crea la rama1
+*git branch -v ----> litado ramas con mas detalle
+*git checkout rama1 ---> cambia a rama1
