@@ -41,5 +41,8 @@ git push -u origin main
 //El Readme.md se convertirá automaticamente a HTML y todo que queramos comunicar se hará por ahi. Suele hacerse en Markdown
 
 *git push ---> Subira al repositorio de github todos los cambios
+*git push -u origin main ---> subir todo lo que tengo en origen de la rama main
 *git pull/fetch ---> recupera los archivos que hay en github y los carga encima de los viejos
 *git clone git@github.com:SRespau/pruebaGit2022.git pruebasGitCopia---> Se descargara en la carpeta donde se encuentra la terminal una carpeta con el nombre dado con ese repositorio
+
+*git branch -M main ---> decir que esta carpeta es la principal
