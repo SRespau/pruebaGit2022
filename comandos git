@@ -50,8 +50,10 @@ RAMAS
 *git branch -M main ---> decir que esta carpeta es la rama principal
 *git branch ---> listado ramas
 *git branch -v ----> litado ramas con mas detalle
+*git granch --all ---> muestra las ramas en local y las ramas en la nube
 *git branch rama1 ---> crea la rama1
 *git checkout -b rama2 ---> crea una rama y te mueve ahi
 *git checkout rama1 ---> cambia a rama1
 *git branch -d rama2 ---> borra la rama2
 *git merge rama1 ---> fusiona la rama1 con main
+*git push origin rama1 ---> sube a la nube la rama1
